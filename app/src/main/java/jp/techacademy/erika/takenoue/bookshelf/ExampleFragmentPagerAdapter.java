@@ -43,8 +43,9 @@ public class ExampleFragmentPagerAdapter extends FragmentPagerAdapter {
             case 3:
                 return "積読本";
             case 4:
-                return "気になる本";
+                return "気になる";
         }
         return null;
     }
+
 }
